@@ -110,8 +110,11 @@ Ao final exibir:
 projeto/
 
 ├── DatSet.txt
+
 ├── neuronio.py
+
 ├── rede.py
+
 └── main.py
 
 ---
